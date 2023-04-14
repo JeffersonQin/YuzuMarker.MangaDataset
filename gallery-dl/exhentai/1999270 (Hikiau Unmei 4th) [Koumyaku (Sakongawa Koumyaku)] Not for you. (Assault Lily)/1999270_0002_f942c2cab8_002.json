@@ -1,0 +1,26 @@
+{
+  "version": "5.1.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "points": [
+        [
+          816.7857142857142,
+          981.5000000000002
+        ],
+        [
+          540.0,
+          816.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "1999270_0002_f942c2cab8_002.jpg",
+  "imageData": null,
+  "imageHeight": 1888,
+  "imageWidth": 1280
+}
