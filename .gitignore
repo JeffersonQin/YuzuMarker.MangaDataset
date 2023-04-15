@@ -1,6 +1,6 @@
-*.jpg
-*.png
-*.jpeg
+gallery-dl/**/*.jpg
+gallery-dl/**/*.png
+gallery-dl/**/*.jpeg
 *.7z
 *.zip
 *.rar
