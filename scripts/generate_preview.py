@@ -12,7 +12,7 @@ import sys
 
 class_names = ["text", "sfx"]
 
-SERVER_URL = "http://yuzu-marker-manga-dataset-preview-server.vercel.app"
+SERVER_URL = "http://20.163.76.249"
 key = sys.argv[1]
 
 # read .github/outputs/all_changed_files.json to get changed file list
