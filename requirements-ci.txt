@@ -2,5 +2,5 @@ gallery-dl
 imgviz
 labelme
 numpy
-PIL
+pillow
 requests
