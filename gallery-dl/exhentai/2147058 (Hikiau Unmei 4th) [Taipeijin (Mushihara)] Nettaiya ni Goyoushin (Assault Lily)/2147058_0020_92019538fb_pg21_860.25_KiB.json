@@ -1,9 +1,9 @@
 {
-  "version": "5.1.1",
+  "version": "5.2.0.post4",
   "flags": {},
   "shapes": [
     {
-      "label": "2",
+      "label": "1",
       "points": [
         [
           961.1538461538461,
@@ -15,11 +15,12 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
       "flags": {}
     },
     {
-      "label": "2",
+      "label": "1",
       "points": [
         [
           140.0,
@@ -31,6 +32,7 @@
         ]
       ],
       "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
       "flags": {}
     },
@@ -47,6 +49,7 @@
         ]
       ],
       "group_id": null,
+      "description": null,
       "shape_type": "rectangle",
       "flags": {}
     }

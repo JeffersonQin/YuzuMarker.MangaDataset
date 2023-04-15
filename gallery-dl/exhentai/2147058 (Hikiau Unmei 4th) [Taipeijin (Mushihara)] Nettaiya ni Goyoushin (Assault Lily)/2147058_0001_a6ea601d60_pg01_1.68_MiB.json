@@ -1,5 +1,5 @@
 {
-  "version": "5.1.1",
+  "version": "5.2.0.post4",
   "flags": {},
   "shapes": [
     {
@@ -15,6 +15,7 @@
         ]
       ],
       "group_id": null,
+      "description": null,
       "shape_type": "rectangle",
       "flags": {}
     },
@@ -31,6 +32,7 @@
         ]
       ],
       "group_id": null,
+      "description": null,
       "shape_type": "rectangle",
       "flags": {}
     },
@@ -47,6 +49,7 @@
         ]
       ],
       "group_id": null,
+      "description": null,
       "shape_type": "rectangle",
       "flags": {}
     },
@@ -63,6 +66,7 @@
         ]
       ],
       "group_id": null,
+      "description": null,
       "shape_type": "rectangle",
       "flags": {}
     },
@@ -79,6 +83,7 @@
         ]
       ],
       "group_id": null,
+      "description": null,
       "shape_type": "rectangle",
       "flags": {}
     },
@@ -95,6 +100,24 @@
         ]
       ],
       "group_id": null,
+      "description": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          551.7256637168141,
+          18.411504424778816
+        ],
+        [
+          605.2654867256637,
+          47.17256637168146
+        ]
+      ],
+      "group_id": null,
+      "description": "",
       "shape_type": "rectangle",
       "flags": {}
     }
