@@ -1,4 +1,5 @@
 import json
+import subprocess
 import os
 
 
@@ -27,3 +28,4 @@ for file in get_files(gallery_path):
 
     with open(file, "w") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
+    subprocess.run(["git", "add", file], check=True)
