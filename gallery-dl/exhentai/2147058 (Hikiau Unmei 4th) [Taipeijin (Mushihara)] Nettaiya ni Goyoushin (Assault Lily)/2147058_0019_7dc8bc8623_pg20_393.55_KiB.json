@@ -1,13 +1,13 @@
 {
-  "version": "5.1.1",
+  "version": "5.2.0.post4",
   "flags": {},
   "shapes": [
     {
       "label": "1",
       "points": [
         [
-          1011.1538461538461,
-          189.26923076923077
+          1015.6756756756757,
+          194.08558558558562
         ],
         [
           1040.0,
@@ -15,6 +15,7 @@
         ]
       ],
       "group_id": null,
+      "description": null,
       "shape_type": "rectangle",
       "flags": {}
     },
@@ -31,6 +32,7 @@
         ]
       ],
       "group_id": null,
+      "description": null,
       "shape_type": "rectangle",
       "flags": {}
     },
@@ -47,6 +49,7 @@
         ]
       ],
       "group_id": null,
+      "description": null,
       "shape_type": "rectangle",
       "flags": {}
     },
@@ -58,11 +61,12 @@
           29.653846153846185
         ],
         [
-          140.0,
-          287.34615384615387
+          135.49549549549553,
+          286.8783783783784
         ]
       ],
       "group_id": null,
+      "description": null,
       "shape_type": "rectangle",
       "flags": {}
     },
@@ -79,6 +83,7 @@
         ]
       ],
       "group_id": null,
+      "description": null,
       "shape_type": "rectangle",
       "flags": {}
     },
@@ -95,6 +100,7 @@
         ]
       ],
       "group_id": null,
+      "description": null,
       "shape_type": "rectangle",
       "flags": {}
     },
@@ -111,6 +117,7 @@
         ]
       ],
       "group_id": null,
+      "description": null,
       "shape_type": "rectangle",
       "flags": {}
     },
@@ -127,6 +134,7 @@
         ]
       ],
       "group_id": null,
+      "description": null,
       "shape_type": "rectangle",
       "flags": {}
     }
