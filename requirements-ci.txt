@@ -1,5 +1,5 @@
 gallery-dl
-img-viz
+imgviz
 labelme
 numpy
 PIL
