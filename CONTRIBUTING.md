@@ -43,6 +43,12 @@ Annotation Standard:
 * English in the manga should also be annotated
 * Even though sometimes two text bubbles are close to each other or interconnected, they should still annotated separately.
 * Sometimes in one text bubble, there may have multiple text areas. Please annotate them separately.
+* There may also be sound effects in the bubble, and text out of the bubble. Please make sure to annotate them correctly.
+* For heart symbols,
+  * If heart symbol is printing format and is a part of the text, please annotate it as text.
+  * If heart symbol is hand drawn, do not need to include it in the area for text.
+  * If heart symbol is hand drawn and is part of sound effect, please annotate it as sound effect.
+  * If heart symbol is hand drawn but left alone, do not need to annotate it.
 * Text line annotation is optional, as it is really labor intensive. But if you are willing to do it, please do it. It will be very helpful for the future research. For the text line annotation, please use polygon instead of bbox to annotation. The format should be similar to [MSRA-TD500 Dataset](http://www.iapr-tc11.org/mediawiki/index.php/MSRA_Text_Detection_500_Database_(MSRA-TD500))
 * Here are some examples (Currently there are no examples for text lines).
 
@@ -57,6 +63,8 @@ Annotation Standard:
 ![](assets/example-5.png)
 
 ![](assets/example-6.png)
+
+![](assets/example-7.png)
 
 ## Step 6 - Add a `.link` at the directory of the manga
 
